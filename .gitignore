@@ -8,3 +8,5 @@ venv/
 **/migrations/
 
 public/static/
+/app/__pycache__
+/stocks/__pycache__
